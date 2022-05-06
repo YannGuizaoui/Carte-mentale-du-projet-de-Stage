@@ -62,6 +62,14 @@ ainsi, des infos sur lui-même.
   #### Immersion et simulation
 
    ##### Les technologies VR améliore t-elle significativement le sentiment d'immersion ?
+   
+-	<blockquote> Dérive proprioceptive
+Dérive motrice
+**-** [De la présence à l’incarnationProposition d’un méta-modèle pour la réalité virtuelle](https://www.unilim.fr/interfaces-numeriques/3295&file=1)
+**-** [Bodily self-consciousness and its disorders](https://www.semanticscholar.org/paper/Bodily-self-consciousness-and-its-disorders.-Ronchi-Park/33f3acfd8608c76f2d239e8a1f1e750c28aef1bc)
+**-** [The building blocks of the full body ownership illusion](https://pubmed.ncbi.nlm.nih.gov/23519597/)
+**-** [Extending body space in immersive virtual reality: a very long arm illusion](https://pubmed.ncbi.nlm.nih.gov/22829891/)
+**-** [The Proteus Effect: The Effect ofTransformed Self-Representation on Behavior](https://stanfordvr.com/mm/2007/yee-proteus-effect.pdf)
 
    ##### Pourquoi le rendu visuelle est-t-il si important dans la simulation du geste ?
 -	<blockquote>Dans le cas de la ponction ventriculaire, les neurochirurgiens ne suivent pas en direct la trajectoire de l'aiguille dans le cerveau. Alors pourquoi est-ce intéressant (hors simple vérification) que les étudiants apprennent le geste avec ce suivi visuel ?

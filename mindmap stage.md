@@ -73,6 +73,18 @@ Dérive motrice
 
    ##### Pourquoi le rendu visuelle est-t-il si important dans la simulation du geste ?
 -	<blockquote>Dans le cas de la ponction ventriculaire, les neurochirurgiens ne suivent pas en direct la trajectoire de l'aiguille dans le cerveau. Alors pourquoi est-ce intéressant (hors simple vérification) que les étudiants apprennent le geste avec ce suivi visuel ?
+   
+   ##### Présence, Immersion, Incarnation
+   
+ -	<blockquote> On peut identifier deux types d'immersion. L'*immersion perceptuelle* "Façon selon laquelle un système fournit un environnement englobant, excluant les sensations du monde réel, accueillant de nombreuses modalités sensorielles, possédant une riche capacité de représentation" et l'*immersion psychologique* "état psychologique caractérisé par le fait de se percevoir soi-même envellopé par, inclus dans, et interagissant avec un environnement fournissant un flux continu de stimuli et dexpérience. Un environnement virtuel produisant un plus grand sentiment d'immersion produira des niveau plus élevés de présence." 
+[McMahan A. (2003). « Immersion, engagement and presence ». The Video Game Theory Reader, p. 67–86.](https://www.researchgate.net/publication/284055280_Immersion_engagement_and_presence_A_method_for_analyzing_3-D_video_games/link/573dd43608ae9f741b2ff98b/download)
+ 
+-	<blockquote> D'après Lee (2004) la présence est un état psychologique où la virtualité de l'expérience n'est pas décelée.
+Selon lui on peut subdiviser ce concept en trois catégories:
+-Présence physique/spaciale
+-Présence de soi
+-Présence sociale
+[Lee K. M. (2004). « Presence, explicated ». Communication Theory, 14(1), p.27–50.](https://academic.oup.com/ct/article-abstract/14/1/27/4110793?redirectedFrom=fulltext)
 
   #### perte de l'idée de *voir sans être vue*
 -	<blockquote> Lorsque nous interagissons ordinairement avec les représentations, ce qui est simulé par la machine, ces dernières ne nous impose pas leur présence directement, elles impactent tout au plus notre avatar ce qui se traduit par un message visuelle, auditif, ou kinesthésique transmis à l'utilisateur. Dans le cas de la simulation haptique on fait désormais face à un retour de force. ? L'utilisateur/protagoniste ? est directement touché par ce qui est représenté sur l'écran.

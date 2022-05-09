@@ -86,7 +86,15 @@ Selon lui on peut subdiviser ce concept en trois catégories:
 -Présence sociale
 [Lee K. M. (2004). « Presence, explicated ». Communication Theory, 14(1), p.27–50.](https://academic.oup.com/ct/article-abstract/14/1/27/4110793?redirectedFrom=fulltext)
 
+-	<blockquote> Pour Biocca l'importance du corps dans le processus d'identification à soi en environnement virtuel doit se comprendre à partir de trois éléments.
+-Le corps objectif : corps réel de l'utilisateur
+-Le corps virtuel : corps virtuel représenté ou non dans l'univers simulé
+-Le schéma corporel : représentation mentale du corps
+[Biocca F. (1997). « The Cyborg’s Dilemma: Progressive Embodiment in Virtual Environments ». Journal of Computer-Mediated Communication, vol.3, issue 2.](https://academic.oup.com/jcmc/article/3/2/JCMC324/4080399)
+[O’Brien H. L., et Toms E. G. (2008). « What is user engagement ? A conceptual framework for defining user engagement with technology ». Journal of the Association for Information Science and Technology, 59(6), p.938–955.](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.20801)
+
   #### perte de l'idée de *voir sans être vue*
+  
 -	<blockquote> Lorsque nous interagissons ordinairement avec les représentations, ce qui est simulé par la machine, ces dernières ne nous impose pas leur présence directement, elles impactent tout au plus notre avatar ce qui se traduit par un message visuelle, auditif, ou kinesthésique transmis à l'utilisateur. Dans le cas de la simulation haptique on fait désormais face à un retour de force. ? L'utilisateur/protagoniste ? est directement touché par ce qui est représenté sur l'écran.
 
   #### Dimension esthétique

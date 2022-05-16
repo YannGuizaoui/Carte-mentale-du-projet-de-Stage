@@ -106,6 +106,8 @@ Selon lui on peut subdiviser ce concept en trois catégories:
 -	<blockquote> [First Person Perspective of Seated Participants Over a Walking Virtual Body Leads to Illusory Agency Over the Walking](https://www.nature.com/articles/srep28879) Kokkinara E., Kilteni K., Blom K. J., et Slater M. 
 
 -	<blockquote> [An immersive virtualreality system for investigating human bodily self-consciousness](https://ieeexplore.ieee.org/document/7519245) Nagamine S., Hayashi Y., Yano S.
+
+-	<blockquote> [Agentivité et présence dans les environnements virtuels](https://www.unilim.fr/interfaces-numeriques/3289) Olivier Nannipieri
   
   #### perte de l'idée de *voir sans être vue*
   

@@ -42,6 +42,10 @@ ainsi, des infos sur lui-même.
  ### Gamification du simulateur haptique
 
   #### La distinction utilisateur/protagoniste est-elle toujours pertinante ?
+  
+ -	<blockquote> [Pour une théorie unificatrice du jeu vidéo : le modèle analytique de la co-instanciation](https://www.psycho-clinique.org/articles/psyc/pdf/2014/01/psyc201437p52.pdf) Amato Etienne Armand
+ -	<blockquote> [Living Digitally : Embodiment in Virtual Worlds](http://tltaylor.com/wp-content/uploads/2009/07/Taylor-LivingDigitally.pdf) Taylor L. N.
+  
   #### Kinesthésique ≠ Haptique / Quelles implications
 
    ##### sur l'immersion ?
@@ -62,6 +66,7 @@ ainsi, des infos sur lui-même.
   #### Immersion et simulation
 
    ##### Les technologies VR améliore t-elle significativement le sentiment d'immersion ?
+-	<blockquote> [The sense of embodiment in virtual reality](https://www.researchgate.net/publication/243056510_The_Sense_of_Embodiment_in_Virtual_Reality) Kilteni K., Groten R., Slater M.
    
 -	<blockquote> Dérive proprioceptive
 Dérive motrice
@@ -93,6 +98,15 @@ Selon lui on peut subdiviser ce concept en trois catégories:
 [Biocca F. (1997). « The Cyborg’s Dilemma: Progressive Embodiment in Virtual Environments ». Journal of Computer-Mediated Communication, vol.3, issue 2.](https://academic.oup.com/jcmc/article/3/2/JCMC324/4080399)
 [O’Brien H. L., et Toms E. G. (2008). « What is user engagement ? A conceptual framework for defining user engagement with technology ». Journal of the Association for Information Science and Technology, 59(6), p.938–955.](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.20801)
 
+
+  #### Sur l'agentivité
+  
+  -	<blockquote> [Full-body illusions and minimal phenomenal selfhood](https://pubmed.ncbi.nlm.nih.gov/19058991/) Blanke O., et Metzinger T.
+  
+-	<blockquote> [First Person Perspective of Seated Participants Over a Walking Virtual Body Leads to Illusory Agency Over the Walking](https://www.nature.com/articles/srep28879) Kokkinara E., Kilteni K., Blom K. J., et Slater M. 
+
+-	<blockquote> [An immersive virtualreality system for investigating human bodily self-consciousness](https://ieeexplore.ieee.org/document/7519245) Nagamine S., Hayashi Y., Yano S.
+  
   #### perte de l'idée de *voir sans être vue*
   
 -	<blockquote> Lorsque nous interagissons ordinairement avec les représentations, ce qui est simulé par la machine, ces dernières ne nous impose pas leur présence directement, elles impactent tout au plus notre avatar ce qui se traduit par un message visuelle, auditif, ou kinesthésique transmis à l'utilisateur. Dans le cas de la simulation haptique on fait désormais face à un retour de force. ? L'utilisateur/protagoniste ? est directement touché par ce qui est représenté sur l'écran.

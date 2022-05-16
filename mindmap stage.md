@@ -66,7 +66,7 @@ ainsi, des infos sur lui-même.
   #### Immersion et simulation
  
  ##### Simulateur de l'INSA
- - <blockquote> [Extrait mémoire](https://drive.google.com/file/d/1NeEAQZUOQWhaE9B1CZ7k98b1jUw6TuaR/view?usp=drivesdk)
+ -	<blockquote> [Extrait mémoire](https://drive.google.com/file/d/1NeEAQZUOQWhaE9B1CZ7k98b1jUw6TuaR/view?usp=drivesdk)
 
    ##### Les technologies VR améliore t-elle significativement le sentiment d'immersion ?
 -	<blockquote> [The sense of embodiment in virtual reality](https://www.researchgate.net/publication/243056510_The_Sense_of_Embodiment_in_Virtual_Reality) Kilteni K., Groten R., Slater M.

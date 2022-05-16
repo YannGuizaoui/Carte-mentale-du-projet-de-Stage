@@ -66,7 +66,6 @@ ainsi, des infos sur lui-même.
   #### Immersion et simulation
  
  ##### Simulateur de l'INSA
- 
 - [Extrait mémoire](https://drive.google.com/file/d/1NeEAQZUOQWhaE9B1CZ7k98b1jUw6TuaR/view?usp=drivesdk)
 
    ##### Les technologies VR améliore t-elle significativement le sentiment d'immersion ?
